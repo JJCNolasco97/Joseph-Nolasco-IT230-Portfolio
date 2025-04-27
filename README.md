@@ -1,4 +1,4 @@
-# Joseph-Nolasco-C-Portfolio
+# Joseph-Nolasco-IT230-Portfolio
 
 # Briefly summarize the requirements and goals of the application you developed. What user needs was this application designed to address?
   The requirements and goals of the application I developed were to allow the user to enter a number assigned to a course in order to register for the course. When a course number is inputted again, it prompts
